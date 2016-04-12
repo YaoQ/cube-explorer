@@ -3,4 +3,4 @@
 Solve the rubik's cube fast with this simple program!
 
 
-# Download [here](https://www.github.com)
+# [Download](https://github.com/skycoder-official/cube-explorer/archive/master.zip)
